@@ -8,7 +8,7 @@ You Need To Execute Server & Client in Different Terminal
  For Server: 
 
 ```bash
-  cd server
+  cd backend
   npm install 
   node server.js
 ```
