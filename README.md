@@ -1,5 +1,4 @@
-# MERN-Email-Service-SMTP
-
+# Simple MERN-Email-Service-SMTP
 
 ## To Run this MERN App : 
 
@@ -22,3 +21,5 @@ For Client :
 
 ### `Live Demo`
 https://exquisite-mochi-300f4f.netlify.app/
+
+The Styling is scufed the most important hing the SMTP Works 💀 
