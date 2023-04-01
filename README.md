@@ -15,7 +15,7 @@ You Need To Execute Server & Client in Different Terminal
 For Client : 
 
 ```bash
-  cd client
+  cd frontend
   npm install 
   npm start
 ```
