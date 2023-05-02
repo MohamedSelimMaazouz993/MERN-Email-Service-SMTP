@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const nodemailer = require('nodemailer');
 
 const app = express();
-app.use(cors());
+app.use(cors(http://localhost:3000));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
