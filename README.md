@@ -94,8 +94,4 @@ sudo docker-compose up --build -d
  <h6 align="center" > Email's content  </h6>
 
 
-
-## `Live Demo`
-https://exquisite-mochi-300f4f.netlify.app/
-
 The Styling is scuffed but the most important thing that the SMTP Works 💀 
