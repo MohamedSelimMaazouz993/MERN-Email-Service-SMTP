@@ -1,4 +1,4 @@
-# MERN-Email-Service-SMTP
+# MERN Email Service SMTP Dockerized
 
 ## To Run this MERN App : 
 
